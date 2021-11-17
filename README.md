@@ -15,7 +15,7 @@ discord ID : Captain_Blamboozle#6650
 - [ ] make it look better
 - [ ] make a random generated ID (5 digit custom number for keeping things tidy and nice)
 - [ ] make admin access and student access only
-- [ ] amek it so you can delete saved data
+- [ ] make it so you can delete saved data
 
 > -in the Data Base file there is some random stuff in it for you to see 
 
