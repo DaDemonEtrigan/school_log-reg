@@ -6,7 +6,7 @@ import sqlite3 as sql
 
 def logister():
     logreg = Tk()
-    logreg.title('register')
+    logreg.title('Register')
 
     def submitter():
         mycnct = sql.connect('school_program.db')
