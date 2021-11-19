@@ -44,7 +44,7 @@ def logister():
     Label(logreg, text='Password').grid(row=1, column=0)
     Label(logreg, text='grade').grid(row=2, column=0)
     Label(logreg, text='ID (custom 5 digit number)').grid(row=3, column=0)
-    submitter = Button(logreg, text='submit your account', command=submitter)
+    submitter = Button(logreg, text='Submit your account', command=submitter)
     submitter.grid(row=4, column=0, columnspan=2, pady=10, padx=10, ipadx=100)
 
 
