@@ -50,7 +50,7 @@ def logister():
 
 def searcher():
     searchpoint = Tk()
-    searchpoint.title('search data')
+    searchpoint.title('Search data')
 
     def cobtn():
         mycon = sql.connect('school_program.db')
