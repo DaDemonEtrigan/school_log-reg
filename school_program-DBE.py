@@ -1,5 +1,6 @@
-# -*- coding: utf-8 -*-
-# dev : Captain_BlamBoozle
+# School app for saving scores and etc
+# dev : Captain_Etrigan
+# state : indev
 from tkinter import *
 import sqlite3 as sql
 
